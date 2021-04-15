@@ -6,6 +6,7 @@ Update
 
 pratice with git 
 
-## New branch
+## New BRANCH
 
-dadadadadagitseqeqqeqqeqe
+manipulate with new branch
+
